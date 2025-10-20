@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year computer science and mathematics double major at the University of Maryland, College Park with research interests in mechanism design and algorithms/complexity. I am currently working on two-sided markets and lower bounds for biclique and am grateful to be advised by [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), [Karthik C.S.](https://cskarthikcs.github.io/), and [Suho Shin](https://suhoshin.github.io/).
+I am a fourth-year computer science and mathematics double major at the University of Maryland, College Park with research interests in mechanism design and algorithms/complexity. I am currently working on two-sided markets and lower bounds for biclique, and I am grateful to be advised by [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), [Suho Shin](https://suhoshin.github.io/), and [Karthik C.S.](https://cskarthikcs.github.io/)
 
 I am applying to Ph.D. programs in computer science for Fall 2026. Feel free to reach out!
 
